@@ -48,6 +48,7 @@ import ReactSharedInternals from './ReactSharedInternals';
 import {enableStableConcurrentModeAPIs} from 'shared/ReactFeatureFlags';
 
 const React = {
+  //react clildren
   Children: {
     map,
     forEach,
